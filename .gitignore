@@ -2,3 +2,7 @@
 /.vs
 /Debug
 raytracer/Debug
+*.obj
+*.tlog
+*.idb
+*.pdb
